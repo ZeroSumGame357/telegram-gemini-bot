@@ -1,0 +1,6 @@
+python-telegram-bot[webhook]==20.3
+firebase-admin==6.1.0
+google-generativeai==0.3.2
+protobuf==3.20.3
+aiohttp==3.8.5
+google-cloud-firestore==2.9.1  # Must be >=2.9.1 for firebase-admin 6.1.0
